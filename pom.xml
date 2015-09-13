@@ -24,7 +24,7 @@
     <!-- The repository server for your android artifacts (e.g. Nexus instance
       in this example) -->
     <repo.id>central</repo.id>
-    <repo.url>http://artifactory.sensibledroids.com/ext-release-local</repo.url>
+    <repo.url>http://dev.sensibledroids.com/artifactory/ext-release-local</repo.url>
 
     <!-- you need to provide username and password for the server in your
       settings.xml, see documentation for the maven-deploy-plugin -->
