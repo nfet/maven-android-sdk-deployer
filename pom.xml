@@ -157,7 +157,7 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
             <modules>
-                <module>repositories</module>
+                <!--<module>repositories</module>-->
                 <module>platforms</module>
                 <module>add-ons</module>
                 <module>extras</module>
