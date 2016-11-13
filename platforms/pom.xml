@@ -58,10 +58,11 @@
                 <!--<module>android-17</module>-->
                 <!--<module>android-18</module>-->
                 <!--<module>android-19</module>-->
-                <module>android-21</module>
+                <!--<module>android-21</module>-->
                 <module>android-22</module>
                 <module>android-23</module>
-                <module>android-24</module>
+                <!--<module>android-24</module>-->
+                <module>android-25</module>
             </modules>
         </profile>
         <profile>
@@ -164,6 +165,12 @@
             <id>7.0</id>
             <modules>
                 <module>android-24</module>
+            </modules>
+        </profile>
+        <profile>
+            <id>7.1.1</id>
+            <modules>
+                <module>android-25</module>
             </modules>
         </profile>
         <profile>
